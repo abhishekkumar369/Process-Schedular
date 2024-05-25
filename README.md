@@ -3,7 +3,7 @@ This project is a web-based application for visualizing and simulating various C
 
 **Live-** [Visualizer](https://abhishekkumar369.github.io/Sorting-Algo-Visualizer/) 
 
-**Code-** [Visualizer_code](https://github.com/abhishekkumar369/Sorting-Algo-Visualizer.git)
+**Code-** [Visualizer_code](https://github.com/abhishekkumar369/Process-Schedular)
 
 # Features
 (a) Algorithm Selection: Choose from a variety of scheduling algorithms, including:
