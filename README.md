@@ -1,16 +1,9 @@
 # Process-Schedular
 This project is a web-based application for visualizing and simulating various CPU scheduling algorithms. Built using HTML, CSS, and JavaScript, it provides an interactive and user-friendly interface to understand and compare different scheduling techniques like FCFS, SJF, SRTF, Priority Scheduling, Round Robin etc.
 
-**Live-** [Link]( https://abhishekkumar369.github.io/Process-Schedular/) 
-   *
-   *
-   *
-   *
-   *
-   *
-   *
-   *
+[Live-Link]( https://abhishekkumar369.github.io/Process-Schedular/) 
 
+   
 # Features
 (a) Algorithm Selection: Choose from a variety of scheduling algorithms, including:
  (1) FCFS (First-Come, First-Served)
